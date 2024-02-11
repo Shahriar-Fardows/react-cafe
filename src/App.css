@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two:wght@400;700&family=PT+Serif:wght@400;700&display=swap");
+
+/* Style a fixed width */
+.section {
+  @apply max-w-7xl mx-auto px-2.5 sm:px-5 md:px-10;
+}
+
+/* Style for active nav route */
+.active {
+  @apply font-bold text-primaryColor1;
+}
+
+.primary-btn {
+  --button-default-height: 55px !important;
+  --button-horizontal-padding: 60px !important;
+  --button-primary-color: #16a085 !important;
+  --button-primary-color-dark: #34495e !important;
+  --button-primary-color-light: #ffffff !important;
+  --button-primary-color-hover: #117864 !important;
+}

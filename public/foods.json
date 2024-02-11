@@ -1,0 +1,152 @@
+[
+  {
+    "foodName": "Classic Beef Burger",
+    "foodImage": "https://i.ibb.co/v4bWrH0/classic-burger-1-1.png",
+    "foodCategory": "Burger",
+    "availableQuantity": 10,
+    "price": 5.99,
+    "foodOrigin": "USA",
+    "description": "The Classic Beef Burger is a timeless favorite, featuring a succulent beef patty nestled between toasted sesame seed buns. Topped with crisp lettuce, juicy tomato slices, onions, and a dollop of tangy special sauce, this burger delivers a burst of savory flavors in every bite. Served with a side of golden, crispy fries, it's a hearty and satisfying meal that never goes out of style.",
+    "count": 0
+  },
+  {
+    "foodName": "Smoky BBQ Burger",
+    "foodImage": "https://i.ibb.co/N1GfX0s/smokey-bbg-burger.png",
+    "foodCategory": "Burger",
+    "availableQuantity": 15,
+    "price": 7.49,
+    "foodOrigin": "USA",
+    "description": "The Smoky BBQ Burger is a mouthwatering delight, boasting a juicy beef or plant-based patty grilled to perfection. Embraced by soft, toasted brioche buns, this burger is generously slathered with a rich, smoky barbecue sauce that tantalizes the taste buds. Topped with melted cheddar cheese, crispy bacon (or a vegan alternative), caramelized onions, and fresh lettuce, this burger offers a harmonious blend of sweet, tangy, and savory flavors, creating a satisfying culinary experience with every bite.",
+    "count": 0
+  },
+  {
+    "foodName": "Spicy Jalapeño Burger",
+    "foodImage": "https://i.ibb.co/1zySqCh/Spicy-Jalape-o-Burger.png",
+    "foodCategory": "Burger",
+    "availableQuantity": 12,
+    "price": 3.99,
+    "foodOrigin": "USA",
+    "description": "The Spicy Jalapeño Burger ignites the palate with its bold and fiery flavors. Featuring a flame-grilled beef or plant-based patty nestled within a toasted artisanal bun, this burger packs a punch with its zesty jalapeño-infused toppings. Layered with melted pepper jack cheese, sizzling jalapeño slices, and a zesty chipotle mayo, it's a tantalizing blend of heat and savory goodness. Balanced with cool, crisp lettuce and ripe tomato, this burger offers a thrilling spice experience for those craving an adventurous culinary journey.",
+    "count": 0
+  },
+  {
+    "foodName": "Margherita Pizza",
+    "foodImage": "https://i.ibb.co/W3L8bfQ/Margherita-pizza.png",
+    "foodCategory": "Pizza",
+    "availableQuantity": 15,
+    "price": 9.99,
+    "foodOrigin": "Italy",
+    "description": "The Margherita Pizza is a classic Italian delight, featuring a thin, crispy crust topped with rich tomato sauce, fresh mozzarella cheese, fragrant basil leaves, and a drizzle of extra-virgin olive oil. Its simple yet exquisite flavors embody the essence of traditional Italian cuisine, offering a delightful experience for pizza enthusiasts seeking a taste of authenticity.",
+    "count": 0
+  },
+  {
+    "foodName": "Pepperoni Pizza",
+    "foodImage": "https://i.ibb.co/3sYVmhx/pepperoni-pizza.png",
+    "foodCategory": "Pizza",
+    "availableQuantity": 20,
+    "price": 11.99,
+    "foodOrigin": "USA",
+    "description": "The Pepperoni Pizza is a crowd-pleaser, featuring a mouthwatering combination of a thin or thick crust topped with zesty tomato sauce, gooey mozzarella cheese, and generous slices of savory pepperoni. Baked to perfection, this pizza boasts a perfect blend of spicy, savory, and cheesy flavors that make it an all-time favorite among pizza aficionados.",
+    "count": 0
+  },
+  {
+    "foodName": "Vegetarian Supreme Pizza",
+    "foodImage": "https://i.ibb.co/QfR0DzQ/Vegetarian-Supreme-Pizza.png",
+    "foodCategory": "Pizza",
+    "availableQuantity": 18,
+    "price": 10.49,
+    "foodOrigin": "Various",
+    "description": "The Vegetarian Supreme Pizza is a colorful medley of flavors, adorned with a variety of fresh and roasted vegetables such as bell peppers, mushrooms, onions, black olives, and tomatoes atop a delectable crust. Bursting with vibrant flavors and textures, this pizza is a delightful option for those seeking a veggie-packed and satisfying pizza experience.",
+    "count": 0
+  },
+  {
+    "foodName": "Chicken Shawarma",
+    "foodImage": "https://i.ibb.co/wJxC8GF/Chicken-Shawarma.png",
+    "foodCategory": "Shawarma",
+    "availableQuantity": 10,
+    "price": 8.99,
+    "foodOrigin": "Middle East",
+    "description": "The Chicken Shawarma is a Middle Eastern delight, featuring tender, marinated chicken wrapped in a warm pita or lavash bread. Bursting with flavors of spices like cumin, paprika, and garlic, the succulent chicken is complemented by a medley of fresh veggies like lettuce, tomatoes, onions, and a drizzle of creamy garlic sauce or tahini. It's a satisfying and flavorful option for shawarma enthusiasts.",
+    "count": 0
+  },
+  {
+    "foodName": "Beef Shawarma",
+    "foodImage": "https://i.ibb.co/f2fvyHh/Beef-Shawarma.png",
+    "foodCategory": "Shawarma",
+    "availableQuantity": 12,
+    "price": 9.49,
+    "foodOrigin": "Middle East",
+    "description": "The Beef Shawarma is a savory treat, featuring thinly sliced and marinated beef wrapped in a soft pita or flatbread. Infused with aromatic spices like cinnamon, cardamom, and cloves, the flavorful beef is paired with a mix of crunchy vegetables such as cucumber, onions, and pickles, all topped with a tangy tahini or yogurt-based sauce. It's a delicious choice for those craving rich and robust flavors.",
+    "count": 0
+  },
+  {
+    "foodName": "Falafel Shawarma",
+    "foodImage": "https://i.ibb.co/GWqCHSc/Falafel-Shawarma.png",
+    "foodCategory": "Shawarma",
+    "availableQuantity": 15,
+    "price": 7.99,
+    "foodOrigin": "Middle East",
+    "description": "The Falafel Shawarma is a vegetarian delight, showcasing crispy falafel balls nestled within a soft pita or lavash bread. Enhanced with a flavorful mix of herbs, spices, and chickpeas, the falafel is paired with fresh veggies like lettuce, tomatoes, and pickled turnips, finished with a drizzle of tahini sauce or creamy hummus. It's a flavorful and satisfying option for vegetarians and shawarma enthusiasts alike.",
+    "count": 0
+  },
+  {
+    "foodName": "Espresso",
+    "foodImage": "https://i.ibb.co/Sn4hCgp/Espresso-coffee.png",
+    "foodCategory": "Coffee",
+    "availableQuantity": 30,
+    "price": 2.99,
+    "foodOrigin": "Italy",
+    "description": "The Espresso is a bold and concentrated coffee beverage brewed by forcing hot water through finely-ground coffee beans. Served in a small, demitasse cup, it boasts a rich and intense flavor with a velvety layer of crema on top. It's a quick yet robust coffee choice, perfect for those seeking a strong caffeine kick in a small serving.",
+    "count": 0
+  },
+  {
+    "foodName": "Cappuccino",
+    "foodImage": "https://i.ibb.co/GQNcNK1/Cappuccino.png",
+    "foodCategory": "Coffee",
+    "availableQuantity": 25,
+    "price": 4.49,
+    "foodOrigin": "Italy",
+    "description": "The Cappuccino is a classic Italian coffee delight, consisting of equal parts of espresso, steamed milk, and frothed milk. Topped with a dusting of cocoa powder or cinnamon, it offers a perfect balance of strong espresso flavor with creamy, velvety milk foam. Its indulgent taste and inviting aroma make it a popular choice for coffee enthusiasts seeking a harmonious blend of espresso and milk.",
+    "count": 0
+  },
+  {
+    "foodName": "Cold Brew",
+    "foodImage": "https://i.ibb.co/BGJrYtD/Cold-Brew.png",
+    "foodCategory": "Coffee",
+    "availableQuantity": 20,
+    "price": 3.99,
+    "foodOrigin": "Various",
+    "description": "The Cold Brew is a refreshing coffee beverage made by steeping coarsely ground coffee beans in cold water for an extended period, usually overnight. The result is a smooth, low-acid coffee concentrate that is often served over ice. Its gentle brewing process highlights the coffee's natural flavors, offering a mellow and refreshing coffee experience, perfect for hot days or for those who prefer a less acidic brew.",
+    "count": 0
+  },
+  {
+    "foodName": "Southern Fried Chicken",
+    "foodImage": "https://i.ibb.co/522Yfqd/Southern-Fried-Chicken.png",
+    "foodCategory": "Chicken Fry",
+    "availableQuantity": 18,
+    "price": 8.99,
+    "foodOrigin": "Southern United States",
+    "description": "Southern Fried Chicken is a beloved classic, featuring succulent chicken pieces marinated in buttermilk, dredged in seasoned flour, and then deep-fried to golden perfection. The crispy, flavorful coating encapsulates tender and juicy meat, offering a delightful contrast in textures and a burst of savory flavors. It's a comforting and satisfying dish that epitomizes Southern culinary tradition.",
+    "count": 0
+  },
+  {
+    "foodName": "Korean Fried Chicken",
+    "foodImage": "https://i.ibb.co/2t2Hp2q/Korean-Fried-Chicken.png",
+    "foodCategory": "Chicken Fry",
+    "availableQuantity": 20,
+    "price": 10.49,
+    "foodOrigin": "South Korea",
+    "description": "Korean Fried Chicken, known for its crispy texture and bold flavors, is double-fried to achieve an extra crunchy exterior. Coated in a sweet and spicy glaze or a soy-based sauce, the chicken pieces are often garnished with sesame seeds and chopped green onions. This dish offers a delightful blend of crunchy, sticky, and flavorful elements, making it a popular choice among fried chicken enthusiasts.",
+    "count": 0
+  },
+  {
+    "foodName": "Buttermilk Fried Chicken Tenders",
+    "foodImage": "https://i.ibb.co/ZxvjPsD/Buttermilk-Fried-Chicken-Tenders.png",
+    "foodCategory": "Chicken Fry",
+    "availableQuantity": 15,
+    "price": 9.99,
+    "foodOrigin": "Various",
+    "description": "Buttermilk Fried Chicken Tenders are tender chicken strips marinated in tangy buttermilk, coated in a seasoned flour mixture, and fried until crispy and golden brown. These juicy, flavorful tenders offer a perfect balance of crunchiness and succulence, making them a versatile choice for meals, snacks, or appetizers. They pair wonderfully with various dipping sauces, making each bite a delightful experience.",
+    "count": 0
+  }
+]
