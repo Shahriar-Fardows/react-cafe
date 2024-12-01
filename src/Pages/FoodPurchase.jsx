@@ -67,7 +67,7 @@ const FoodPurchase = () => {
   return (
     <>
       <Helmet>
-        <title>FH Cafe | Checkout</title>
+        <title>React Cafe | Checkout</title>
       </Helmet>
       <SubHeading title="Food Purchase Page" page="purchase" />
       <div className="section my-20">

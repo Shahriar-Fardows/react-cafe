@@ -26,7 +26,7 @@ const AddedFoodItems = () => {
   return (
     <div>
       <Helmet>
-        <title>FH Cafe | My Added Foods</title>
+        <title>React Cafe | My Added Foods</title>
       </Helmet>
       <SubHeading title="My Added Food Items" page="Added Items" />
       <div className="section my-20">

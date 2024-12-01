@@ -1,4 +1,4 @@
-Project Name: FH Cafe Restaurant Website
+Project Name: React Cafe Restaurant Website
 Project Live Link: https://eleventh-assignment-b4b1e.web.app/
 
 Top 5 features:

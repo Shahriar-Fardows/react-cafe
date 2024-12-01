@@ -6,7 +6,7 @@ const Signup = () => {
   return (
     <div>
       <Helmet>
-        <title>FH Cafe | Signup</title>
+        <title>React Cafe | Signup</title>
       </Helmet>
       <SubHeading title="Signup Page" page="Signup" />
       <AuthForm objective="Signup" />

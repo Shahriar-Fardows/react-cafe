@@ -44,7 +44,7 @@ const UpdateFood = () => {
   return (
     <div className="my-20 section font-ptserif">
       <Helmet>
-        <title>FH Cafe | Update Food</title>
+        <title>React Cafe | Update Food</title>
       </Helmet>
       <h1 className="text-5xl font-semibold font-lobster text-center">
         Update Food Info

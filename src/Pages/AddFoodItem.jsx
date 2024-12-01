@@ -54,7 +54,7 @@ const AddFoodItem = () => {
   return (
     <>
       <Helmet>
-        <title>FH Cafe | Add Food</title>
+        <title>React Cafe | Add Food</title>
       </Helmet>
       <SubHeading title="Add Food Page" page="purchase" />
       <div className="section my-20">

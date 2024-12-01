@@ -4,7 +4,7 @@ const Blog = () => {
   return (
     <div>
       <Helmet>
-        <title>FH Cafe | Blog</title>
+        <title>React Cafe | Blog</title>
       </Helmet>
       <div className="max-w-5xl mx-auto my-20 font-ptserif space-y-10">
         <div>

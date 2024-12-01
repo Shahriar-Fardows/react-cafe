@@ -22,7 +22,7 @@ const AllFoodItems = () => {
   return (
     <div>
       <Helmet>
-        <title>FH Cafe | Shop</title>
+        <title>React Cafe | Shop</title>
       </Helmet>
       <SubHeading title="Shop Page" page="Shop" />
       <div className="flex section my-20 gap-5">

@@ -43,7 +43,7 @@ const OrderedFoodItems = () => {
   return (
     <div>
       <Helmet>
-        <title>FH Cafe | My Ordered Foods</title>
+        <title>React Cafe | My Ordered Foods</title>
       </Helmet>
       <SubHeading title="My Ordered Food Items" page="Ordered Items" />
       <div className="section my-20">

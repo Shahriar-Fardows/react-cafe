@@ -32,7 +32,7 @@ const FoodDetail = () => {
   return (
     <div>
       <Helmet>
-        <title>FH Cafe | Food</title>
+        <title>React Cafe | Food</title>
       </Helmet>
       <SubHeading title="Food Detail Page" page="Food Detail" />
       <div className="section flex justify-between my-20 gap-10">

@@ -8,7 +8,7 @@ const NotFound = () => {
   return (
     <div>
       <Helmet>
-        <title>FH Cafe | Page Unavailable</title>
+        <title>React Cafe | Page Unavailable</title>
       </Helmet>
       <div
         className="w-full h-screen fixed top-0 left-0"

@@ -55,7 +55,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className="bg-[#fef5ee] py-3 text-center font-ptserif text-primaryColor2">
-        <p>Copyright©2023, FH Cafe, Made By Ferdous Ahmed Himel</p>
+        <p>Copyright©2023, React Cafe, Made By Ferdous Ahmed Himel</p>
       </div>
     </>
   );
